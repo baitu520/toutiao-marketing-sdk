@@ -20,7 +20,7 @@ class ToutiaoAuth
 
     public $secret;
 
-    public $server_url = 'https://ad.toutiao.com/open_api';
+    public $server_url = 'https://ad.oceanengine.com/open_api';
 
     public $box_url = 'https://test-ad.toutiao.com/open_api';
 
